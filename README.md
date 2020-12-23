@@ -8,3 +8,6 @@ An AQI between zero and 50 is considered "good", 51 and 100 "satisfactory", 101 
 It covers Mainly :-
 1. Analyzing pollution levels in delhi over the years from 2015 to 2020
 2. Effect of lockdown on pollution level of delhi
+
+Here is the Blog of my data :
+https://gaurav-jha127.medium.com/delhiites-breathe-809690f05bf
